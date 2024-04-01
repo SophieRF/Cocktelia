@@ -23,7 +23,7 @@ personalizada con los cocteles que más te gustan!
 
 FUNCIONALIDADES
 
- Al ejecutar la aplicación se visualiza la pantalla "splash", a modo de presentación, con una imagen ilustrativa y el nombre de la aplicación en la parte superior:
+Al ejecutar la aplicación se visualiza la pantalla "splash", a modo de presentación, con una imagen ilustrativa y el nombre de la aplicación en la parte superior:
  
 ![](https://github.com/SophieRF/MyFlutterProjects/blob/main/splashScreenIMG.jpeg)
 
