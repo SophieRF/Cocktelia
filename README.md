@@ -54,7 +54,7 @@ categoría correspondiente a la que se accedió:
 
 ![](https://github.com/SophieRF/MyFlutterProjects/blob/main/recipeIMG.jpeg)
 
-si se accede a la pestaña de "favoritos", se puede ver la
+Si se accede a la pestaña de "favoritos", se puede ver la
 barra de navegación en la parte superior que nos da fácil
 acceso a la pestaña "recetas". En el cuerpo veremos el
 listado de recetas que han sido añadidas a esta
