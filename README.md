@@ -66,10 +66,10 @@ opción de eliminar la receta almacenada:
 ![](https://github.com/SophieRF/MyFlutterProjects/blob/main/favRecipesIMG.jpeg)
 
 HERRAMIENTAS
-SDK Flutter
-Andriod Studio
-Visual Studio Code
-Emulador de Android
+*SDK Flutter
+*Andriod Studio
+*Visual Studio Code
+*Emulador de Android
 
 RECURSOS
 * App responsiva: Screen Util 5.9.0
