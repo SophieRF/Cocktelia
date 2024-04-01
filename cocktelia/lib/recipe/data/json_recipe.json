@@ -1,0 +1,446 @@
+{
+"recipe":[
+    {
+        "drinkName":"Mojito",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.bbDo_ftQq.ZlV_P7t2pW?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nRon blanco 60ml \nJugo de limón 30ml \nAlmibar simple 30ml \nRamas de menta \nGolpe de soda \nRodaja de limón\nHielo picado \nOpcional: 1 golpe de Bitter Angostura",
+        "howToMake":"PREPARACIÓN\nEn un vaso ancho colocar las ramas de menta y presionar suavemente con un mortero, luego añadir el almíbar, el jugo de limón exprimido y hielo picado hasta el tope del vaso. Integrar suavemente con una cucharilla y completar con un golpe de soda y una rodaja de limón para decorar"
+    },
+    {
+        "drinkName":"Margarita",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.g1f.SNExrEPO2sbXL6MC?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nTequila 75ml \nTriple sec 25ml \nJugo de limón 25ml \nAlmíbar simple 10ml",
+        "howToMake":"PREPARACIÓN\nEn una copa Margarita realizar corona de sal añadiendo jugo de limon en los bordes de la copa y colocandola boca abajo en un plato con sal. A continuación verter los ingredientes en una coctelera con hielo. Batir enérgicamente unos 15 segundos y verter el contenido en la copa con la ayuda de un colador"
+    },
+    {
+        "drinkName":"Mojito sin alcohol",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.k8x0zwzhy5HhDKo.wUwi?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nJugo de limón 40ml \nAlmibar simple 40ml \nSoda o Refresco de Lima \nRamas de menta \nRodaja de limón\nHielo picado",
+        "howToMake": "PREPARACIÓN\nEn un vaso mediano colocar las ramas de menta y presionar suavemente con un mortero, luego añadir el jugo de limón exprimido, el almibar y hielo picado hasta el tope del vaso. Por último completar el vaso con soda y decorar con rodaja de limón"
+    },
+    {
+        "drinkName":"Piña Colada",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.xSN2DKsRDTZCmquTko9u?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nCrema o leche de coco 30ml \nRon blanco 60ml \nJugo de piña 90ml \nOpcional: Leche condensada 30ml \nRodaja de piña y/o cereza",
+        "howToMake":"PREPARACIÓN\nAñade los ingredientes a una licuadora con hielo y licúa todo hasta conseguir una textura uniforme y cremosa, luego sirvelo en una copa huracán o un vaso ancho y decoralo con una pequeña rodaja de piña y una cereza. Añade un sorbete y disfruta este sabroso y refrescante coctel!"
+    },
+    {
+        "drinkName":"Cuba Libre",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.cirumgTwzDXCdjvqYx2l?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nRon Dorado 60ml\nCocaCola\nLima o Limón\nHielo picado",
+        "howToMake":"En un vaso largo añadimos el hielo, luego agregamos el Ron y por último completamos el vaso con CocaCola y lo decoramos con una rodaja de lima.\nOpcional: Exprimir un poco la lima sobre el trago para añadir un toque cítrico."
+    },
+    {
+        "drinkName":"Negroni",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.vSNyGU_vk3mBgymvd9F6?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nCampari 60ml\nGin 60ml\nVermouth Rosso 60ml\nNaranja\nRoca de hielo",
+        "howToMake":"En un vaso mezclador añadir hielos y servir los alcoholes en su justa medida. Remover unos segundos con una cucharilla para refrescar la bebida y servir con un colador en un vaso corto con una roca de hielo. Decorar con una rodaja de naranja.\nSugerencias: Frotar sutilmente la rodaja de naranja sobre los bordes del vaso, esto le otorgará mayor aroma y sabor, además puedes torcer una piel de naranja sobre el cóctel para que libere sus aceites esenciales y añada aroma"
+    },
+    {
+        "drinkName":"Caipirinha",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.NpLw3cSpeKYjfTbtxRJu?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nCachaça 60ml\nLima 1\nAzúcar 2 cucharadas\nHielo picado",
+        "howToMake":"PREPARACIÓN\nCortamos la lima en cuartos y la agregamos a un vaso corto junto con el azucar, machacamos con un mortero para que la lima suelte su jugo. Completamos el vaso con hielo picado y añadimos la cachaça, revolvemos un poco con una cuchara mezcladora y decoramos con una rodaja de lima"
+    },
+    {
+        "drinkName":"Espresso Martini",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.iyTxsMCHPW99vCkqYs.e?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nVodka 50ml\nLicor de café 25ml\nAlmíbar simple 15ml\nCafé espresso 30ml",
+        "howToMake":"PREPARACIÓN\nAñadir hielos a una copa martini para enfriar, luego en una coctelera con hielos añadimos los ingredientes, ten en cuenta que el café espresso debe estar a temperatura ambiente, no caliente. Agita la coctelera enérgicamente unos segundos hasta que se genere esa espuma característica. Por pultimo retira los hielos y el agua sobrante de la copa y sirve el coctel con ayuda de un colador. Puedes decorar con tres granos de café sobre la superficie."
+    },
+    {
+        "drinkName":"Dry Martini",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.v8w1RsVDJIESl0whacDO?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nGin London Dry 60ml\nVermouth Blanco 15ml\nAceitunas",
+        "howToMake":"PREPARACIÓN\nAñadir hielos a una copa martini para enfriar, luego en un vaso mezclador incorpora hielos, el Gin, el Vermouth y mezcla unos 15 segundos con una cucharilla para enfriar la bebida. Finalmente retira los hielos y el agua sobrante de la copa y añade la bebida con ayuda de un colador. Por último decora añadiendo una aceituna o un palillo con tres aceitunas para darle un aspecto más atractivo."
+    },
+    {
+        "drinkName":"Manhattan",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.bgPBm1Guiatt3ihbObki?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nWhisky 45ml\nVermouth rojo 15ml\nBitter Angostura\n Cereza marrasquino",
+        "howToMake":"PREPARACIÓN\nAñadir hielos a una copa martini para enfriar, luego en un vaso mezclador incorpora hielos, el Whisky, el Vermouth y mezcla unos 15 segundos con una cucharilla para enfriar la bebida. Finalmente retira los hielos y el agua sobrante de la copa y añade la bebida con ayuda de un colador. Por último decora con una cereza marrasquino."
+    },
+    {
+        "drinkName":"Cosmopolitan",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.JMONdqeq6L5aazUK7o6r?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nVodka blanco 40ml\nTriple sec(de preferencia Cointreau)\nZumo de lima o limón 30ml\nZumo de Arándanos 30ml",
+        "howToMake":"PREPARACIÓN\nAñade hielos en una copa martini para enfriarla, luego en una coctelera con hielos incorporamos los ingredientes y agitamos enérgicamente unos segundos. Finalmente retira los hielos y el agua sobrante de la copa y sirve el coctel con ayuda de un colador, puedes decorar con un twist de limón o frutos rojos."
+    },
+    {
+        "drinkName":"Fernet Argentino",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.5QJwFS1T.BI_r40t4yfM?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nFernet(de preferencia Branca) 60ml \nCocaCola",
+        "howToMake":"PREPARACIÓN\nEn un vaso largo con hielo casi hasta el tope agregar el fernet y completar con Coca Cola. Servir la gaseosa despacio para que no genere demasiada espuma y así poder llenar el vaso."
+    },
+    {
+        "drinkName":"Tequila Sunrise",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.4dmlW9OUWZRDkOStNxTK?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nTequila 50ml\nZumo de naranja 90ml\nGranadina 15ml\nHielo en cubos\nRodaja o twist de naranja",
+        "howToMake":"PREPARACIÓN\nEn un vaso largo con hielos añadir el tequila y el zumo de naranja, luego agregar la granadina utilizando una cucharilla como apoyo para que caiga despacio en una orilla del vaso y así llegue a mezclarse sutilmente creando un efecto 'Atardecer'. Por último decora tu coctel con una rodaja o twist de naranja"
+    },
+    {
+        "drinkName":"Pisco Sour",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.GMHSpux9ManejX4ESC.p?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nPisco 60ml\nZumo de lima o limón 30ml\nAlmibar simple 30ml\nClara de huevo\nBitter Angostura",
+        "howToMake":"PREPARACIÓN\nEn una coctelera sin hielo agitar enérgicamente la clara de huevo unos 20 segundos para lograr una consistencia espumosa, luego añadir hielos a la misma coctelera y consecutivamente incorporar el Pisco, el zumo de limón, el almibar y volver a agitar unos segundos hasta integrar los ingredientes. Por último servir en un vaso corto y añadir 3 gotas de Bitter Angostura por encima."
+    },
+    {
+        "drinkName":"Daiquiri clásico",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.vOP2uxuLmf_6GABjg1uD?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nRon blanco 60ml\nZumo de lima o limón 30ml\nAlmíbar simple 30ml\nRodaja de lima o limón",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añadir los ingredientes y agitar unos 15 segundos, luego en una copa martini previamente enfriada añadir el coctel con ayuda de un colador y decorar con una rodaja de lima o limón y a disfrutar!"
+    },
+    {
+        "drinkName":"Tom Collins",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.vOP2uxuLmf_6GABjg1uD?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nGin 60ml\nZumo de lima o limón 30ml\nAlmíbar simple 30ml\nSoda\nHielo en cubos\nCereza\nRodaja de lima",
+        "howToMake":"PREPARACIÓN\nEn un vaso largo añadir el Gin, el zumo de lima y el almíbar, luego incorporar los hielos casi hasta el tope. Por último completar el vaso con soda, integrar suavemente con una cucharilla y decorar con una cereza y una rodaja de lima."
+    },
+    {
+        "drinkName":"Sex on the beach",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.rTxRtwG.GtlMtHAJg1Fp?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nVodka 45ml\nLicor de durazno 15ml\nJugo de Arándanos 15ml\nJugo de Naranja\nCubos de hielo\ncereza\nRodaja de naranja",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos incorporar los ingredientes y batir unos 15 a segundos, luego servir en un vaso largo y decorar con una cereza y una rodaja de naranja."
+    },
+    {
+        "drinkName":"Long island iced tea",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.haptsroybQOzjj1oAxm4?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nVodka 20ml\nTequila 20ml\nRon blanco 20ml\nGin 20ml\nTriple sec 20ml\nJugo de limón 20ml\nAlmíbar simple 20ml\nCoca Cola\nHielo molido\nRodajas de limón",
+        "howToMake":"PREPARACIÓN\nEn un vaso largo añadir el hielo completando 2/3 partes del vaso, luego añade todos los ingredientes menos la gaseosa al vaso e integralos con una cucharilla. Por último completa el vaso con Coca Cola y decora sumergiendo unas rodajas de lima o limón."
+    },
+    {
+        "drinkName":"Jack'n Coke",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.zBLYkOgVdG50l5t8U2L0?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\n Jack Daniel's 50ml\nCoca Cola\nRocas de hielo\nRodaja de limón",
+        "howToMake":"PREPARACIÓN\nEn un vaso corto añade dos rocas de hielo, luego incorpora el Whiskey y por último completa el vaso con gaseosa Coca cola. Decora con una rodaja de limón y a disfrutar!"
+    },
+    {
+        "drinkName":"Sazerac",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.gJuTF8SvBDQl4cedXaeK?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nWhisky de centeno 60ml\nAbsenta 15ml\nUna cucharadita de azúcar\nBitters Peychaud o Angostura\nPiel de limón",
+        "howToMake":"PREPARACIÓN\nDejar enfriando un vaso corto. Mientras tanto, en otro vaso de mezcla con hielos, añade el azúcar y combinalo con varias gotas de Bitter y la medida de Whisky, revuelve unos segundos. Ahora sí busca tu vaso corto que dejaste enfriando y anjuagalo con el Absenta, cubriendo el interior del vaso (retira el Absenta sobrante). Finalmente cuela la mezcla de whisky y decora con un twist de piel de limón."
+    },
+    {
+        "drinkName":"Sea Breeze",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.kUAllAc3pfM6x6e_OTN5?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nVodka 45ml\nJugo de arándanos 60ml\nJugo de pomelo rosado 20ml\nHielo en cubos\nCereza marrasquino\nRodaja de naranja o limón",
+        "howToMake":"PREPARACIÓN\nEn un vaso largo añadir los hielos cubiendo 3/4 partes del vaso, luego incorpora los ingredientes e integralos con una cucharilla. Por último decora con una cereza y media rodaja de naranja o limón y disfruta este refrescante trago!"
+    },
+    {
+        "drinkName":"Harvey Wallbanger",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.qYZ1KriTkxxdLy0Y4Nox?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nVodka 45ml\nLicor Galliano 15ml\nJugo natural de naranja 90ml\nCereza/Rodaja de naranja\nHielo picado",
+        "howToMake":"PREPARACIÓN\nEn un vaso largo añadir hielo picado hasta el tope y agregar el jugo de naranja el y el vodka. Luego agregar el Galliano vertiendolo lentamente sobre el dorso de una cucharilla. Finalmente decora con una cereza y media rodaja de naranja"
+    },
+    {
+        "drinkName":"Mai Tai",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.55YInvdSqPWdHW3KsjLN?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nRon blanco 20ml\nRon Dorado 20ml\nAmaretto 2oml\nJugo de piña 60ml\nGranadina 15ml\nHielo picado\nFrutas para decorar",
+        "howToMake":"PREPARACIÓN\nEn una coctelera añade hielo picado y todos los ingredientes excepto la granadina. Agita unos segundos enérgicamente y sirve con la ayuda de un colador en un vaso lleno de hielo picado. Por último añade lentamente la granadina para que se integre con el coctel.Puedes decorar con una rodaja de lima, una cereza marrasquino o una ramita de menta fresca según tu preferencia."
+    },
+    {
+        "drinkName":"Pisco sour",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.GMHSpux9ManejX4ESC.p?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nPisco 60ml\nJugo de limón 30ml\nAlmíbar simple 20ml\nUna clara de huevo\nRodaja de lima o limón\nHielo en cubos\nOpcional:Bitter Angostura",
+        "howToMake":"PREPARACIÓN\nEn una coctelera sin hielos bate la clara unos 20 segundos enérgicamente hasta lograr que monte, luego añade el hielo y los demás ingredientes y vuelve a batir unos segundos hasta integrar. Por último sirvelo en un vaso corto y decora con una rodaja de lima y unas gotas de bitter Angostura."
+    },
+    {
+        "drinkName":"Gimlet",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.1foFoEe3vMouyLOF9BSD?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nGin 60ml\nJulo de lima o limón 30ml\n Opcional: Almíbar 20ml o una cucharada de azúcar\nRodaja de lima o limón",
+        "howToMake":"PREPARACIÓN\nAñade hielos a una copa coctel para enfriarla. Luego en una coctelera incorpora hielos junto a los ingredientes y agita unos segundos hasta integrar bien. Por último retira los hielos de la copa y añade el coctel con ayuda de un colador. Decora con una rodaja de lima o limón y a disfrutar!"
+    },
+    {
+        "drinkName":"Mint Julep",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.Wps4o1U1MHEoILq6Ghp5?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nWhiskey bourbon 75ml\nAlmíbar simple 20ml\nHojas de menta\nHielo triturado",
+        "howToMake":"PREPARACIÓN\nEn un vaso de boca ancha añade unas 8 hojas de menta junto con el almíbar y machaca suavemente. Luego añade el whiskey y por último incorpora el hielo picado hasta arriba de la superficie del vaso. Decora con unas hojitas de menta y disfruta este refrescante coctel!"
+    },
+    {
+        "drinkName":"Bacardí",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.Tg6q.IkcCDTRb6G_8osc?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nRon blanco Bacardí 60ml\nJugo de lima o limón 20ml\nGranadina 10ml\nHielo en cubos\np/decorar rodaja de lima o limón",
+        "howToMake":"PREPARACIÓN\nEn una coctelera añade el hielo y los demás ingredientes. Agitar unos segundos para integrar y verter con ayuda de un colador en un vaso con hielo hasta el tope. Decora con una rodaja de lima o limón"
+    },
+    {
+        "drinkName":"Coquito",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.D_kpy3VqMC0Vacf8h6nU?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES PARA 10 UNIDADES\nRon blanco o dorado 375ml\nCrema de coco 425ml\nLeche de coco 400ml\nLeche condensada 390ml\nRamas de canela\nCanela en polvo",
+        "howToMake":"PREPARACIÓN\nEn una licuadora agregar los ingredientes líquidos y batir unos segundos. Luego coloca la mezcla en botellas y refrigerar. Antes de servir agita bien la botella y sirve en copas de vidrio. Decora con una ramita de canela o espolvoreando canela en polvo sobre la superficie ¡y listo para disfrutar!"
+    },{
+        "drinkName":"Paloma",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.raUClKLShURBlpt46s2f?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nTequila 50ml\nJugo de pomelo rosado 50ml\nJugo de limón 15ml\nAlmíbar simple 15ml\nSoda\nHielo en cubos\nRodaja de pomelo",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos incorpora el tequila, el jugo de pomelo, el jugo de limón y el almíbar. Agita unos segundos y e incorpora el coctel a un vaso largo con hielos. Por último completa el vaso con soda y decora con media rodaja de pomelo. Listo para disfrutar!"
+    },
+    {
+        "drinkName":"Shandy",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.GEICJu25p9qQxeS7KNK1?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nCerveza rubia30ml\nGaseosa de lima-limón 25ml\nHielo en cubos\nRodaja de limón",
+        "howToMake":"PREPARACIÓN\nEn un vaso mediano añade hielo hasta el tope, luego incorpora la gaseosa y por último la cerveza. Decora con una rodaja de limón y si quieres puedes exprimir un poco del jugo de un limón sobre el vaso para darle un toque más cítrico."
+    },
+    {
+        "drinkName":"Michelada",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.3ZUQDMY2Iy9L3so47g7I?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nCerveza rubia 1 lata\nLima o limón 1\nSalsa tipo inglesa 1 cucharadita\nPicante Tabasco o similar 1 cucharadita\nHielo en cubos\nSal y chile en polvo para escarchar",
+        "howToMake":"PREPARACIÓN\nHumedece el borde de un vaso mediano y colócalo sobre un plato con sal y chile en polvo (también puede ser pimienta) para escarchar. Llena el vaso con hielos y añade el jugo de lima o limón, la salsa y el picante. Por último completa el vaso con cerveza bien fría y decora con media rodaja de lima o limón"
+    },
+    {
+        "drinkName":"Spritzer",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.Ip802UA9VZpYcZ7_ZDcw?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nVino blanco 90ml\nGaseosa de lima-limón 90ml\nHielo en cubos\nRodaja de limón",
+        "howToMake":"PREPARACIÓN\nEn una copa de vino añade hielos a gusto y luego incorpora el vino blanco y por último la gaseosa. Decora con una rodaja de limón y a disfrutar!"
+    },
+    {
+        "drinkName":"Caipiroska",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.SzVXEZmCM6zvjd88KmdZ?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nVodka 60ml\nLima o limón 1\nAzúcar 25gr\nHielo picado",
+        "howToMake":"PREPARACIÓN\nCorta la lima o limón en 4 gajos y añadelos a un vaso corto junto con el azucar. Machaca bien estos ingredientes con un mortero para que el limón suelte su jugo y se integre con el azúcar. Por último añade el vodka y completa el vaso con hielo picado. Integra de abajo hacia arriba los ingredientes con una cucharilla y decora con una rodaja de lima o limón."
+    },
+    {
+        "drinkName":"Aperol Spritz",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.eZsg3GWFjd675YVtYj9w?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nAperol 60ml\nEspumante 90ml\nSoda\nHielo en cubos\nRodaja de naranja",
+        "howToMake":"PREPARACIÓN\nEn una copa de vino añade mucho hielo, luego incorpora el espumante, el aperol y por último un dash de soda. Decóralo con una rodaja de naranja."
+    },
+    {
+        "drinkName":"Tinto de verano",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.Hm5Pv99lwY04JguSWtln?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES PARA 4 UNIDADES\nVino tinto 750ml\nGaseosa de lima-limón 750ml\nLimón en rodajas\nOpcional: Vermouth",
+        "howToMake":"PREPARACIÓN\nEn una jarra añade hielos hasta la mitad, luego incorpora el vino y por último la gaseosa, puedes añadir un poco de Vermouth para darle un toque especiado y original. Finalmente añade las rodajas de limón y ya puedes servirlo!"
+    },
+    {
+        "drinkName":"Destornillador",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.v5q7lYAjLaUDceRBZIwK?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nVodka 60ml\nJugo de naranja\nRodaja de naranja\nHielo en cubos",
+        "howToMake":"PREPARACIÓN\nLlena un vaso largo con hielos y añade el vodka, luego completa el vaso con jugo de naranja exprimida. Decora con una rodaja de naranja."
+    },
+    {
+        "drinkName":"Gin Tonic",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.7zWOdGZRgvSSBMGwILBB?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nGin 60ml\nAgua Tónica\nHielo en cubos\nRodajas de limón o topping a elección",
+        "howToMake":"PREPARACIÓN\nEn un copón agrega hielos hasta el tope, luego incorpora el gin y completa con tónica. Por último añade los toppings que desees, pueden ser cítricos(limón, naranja, pomelo), frutos rojos, pepino, pimienta, romero, etc. Se recomienda poner como máximo 2 toppings direfentes, en este caso menos es mas!"
+    },
+    {
+        "drinkName":"Bloody Mary",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.r.6PlK.mSvrToZT89wSf?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nSalsa perrins 1 chorro\nSalsa Tabasco dos gotas\nPimienta negra molida 1 pizca\nJugo de limón 20ml\nZumo de tomate 200ml\nVodka 60ml\nHielo en cubos\nRama de apio\nSal de apio 1 pizca",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielo incorpora la salsa Perrins, el tabasco, la pimienta y el jugo de limón, agita bien unos segundos. Luego incorpora el vodka, la sal de apio y el zumo de tomate y vuelve a agitar hasta integrar. Por último sirve el coctel en un vaso mediano con hielos y decora con una ramita de apio."
+    },
+    {
+        "drinkName":"Kamikaze",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.B2DXY4ND1R0DUpGHhn6l?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nVodka 30ml\nCointreau 30ml\nJugo de lima o limón 30ml\nHielo en cubos\nRosaja de lima o limón",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade los ingredientes líquidos y agita unos segundos hasta integrar bien. Luego añade el coctel con ayuda de un colador a una copa martini previamente enfriada. Por último decora con una rodaja de lima o limón y disfruta de este potente clásico!"
+    },
+    {
+        "drinkName":"Moscow Mule",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.UroY7mlsPLdQ4SgiDmHr?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nVodka 50ml\nCerveza de jengibre o Ginger Ale 250ml\nJugo de lima o limón 30ml\nHielo picado\nRodaja de lima o limón\nHierbabuena",
+        "howToMake":"PREPARACIÓN\nEn una jarra de cobre para Moscow Mule añadimos una tercera parte de hielo picado, seguido del jugo de lima y el vodka y luego integramos suavemente con una cucharilla. Luego añade más hielo hasta sobrepasar el tope de la jarra y completa con la cerveza de jengibre. Decora con una rodaja de lima o limón y unas hojitas de hierbabuena y listo para disfrutar!"
+    },
+    {
+        "drinkName":"Old Fashioned",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.ewbQ.KqEzG3V4.qtWzIf?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nWhiskey bourbon 60ml\nBitter Angostura 2 golpes\nTerron de azúcar 1\nRocas de hielo\nCereza maraschino\nPiel de naranja",
+        "howToMake":"PREPARACIÓN\nEn el fondo de un vaso corto añade el terrón de azucar y sobre el mismo deja caer unos dos o tres golpes de bitter Angostura y machacalo con un mortero hasta disolver(puedes ayudarte con unas gotas de agua si es necesario). Añade dos o tres rocas de hielo al vaso seguido del Whiskey y integra suavemente con una cucharilla. Por último decora con un twist de piel de naranja y opcionalmente una cereza maraschino\nSugerencia: Antes de colocar el twist de naranja, tuercelo suavemente sobre el vaso para liberar los aceites esenciales y añadir aroma al coctel."
+    },
+    {
+        "drinkName":"Mimosa",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.o6pIqyi_qJWs6VxJMeyl?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nEspumante seco o semi-seco\nJugo de naranja\nPiel de naranja",
+        "howToMake":"PREPARACIÓN\nEn una copa flauta añade el espumante que debe estar a una temperatura bien fría. Luego completa con jugo de naranja y decoralo con un twist de piel de naranja o un cuarto de rodaja de naranja."
+    },
+    {
+        "drinkName":"Agua de Valencia",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.uatDnaEniHDNAiVHQ8L6?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES PARA 4 UNIDADES\nGin 160ml\nJugo de naranja 330ml\nVodka 160ml\nCava o Espumante 330ml\nHielo en cubos\nRodajas de naranja",
+        "howToMake":"PREPARACIÓN\nEn una jarra con hielos añade los ingredientes, remueve un poco para integrar y deja refrigerando por al menos 1 hora para que los sabores y aromas se asienten bien. Luego sirve en vasos largos con hielo. Puedes decorar los vasos con una rodaja de naranja para una mejor presentación."
+    },
+    {
+        "drinkName":"Café Irlandés",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.6HOiXBihVt6rb0Fn.Zf9?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nCafé espresso caliente 80ml\nWhisky irlandés 40ml\nCrema batida 40ml\nAzúcar 15gr\nCanela molida",
+        "howToMake":"PREPARACIÓN\nPreparamos el café epresso y calentamos en una olla el wisky con el azúcar hasta que esta se disuelva y se integre. Luego en una taza de vidrio, previamente templada con agua caliente, vertemos el café, luego el whisky y por último coronamos con crema montada ayudandonos de una cucharilla dada vuelta para que no se mezcle con el coctel. Por último espolvorea canela en polvo por ensima para añadir ese toque aromático especial."
+    },
+    {
+        "drinkName":"Blackberry Gin Fizz",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.tPnVZthlm29EeZMCWuJH?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nGinebra 60ml\nJugo de limón 20ml\nAgua mineral 60ml\nAzúcar 3 cucharadas\nMoras 1/2 taza\nHielo en cubos\nHojitas de albahaca",
+        "howToMake":"PREPARACIÓN\nEn un vaso mediano colocar 5 moras, mas el azúcar y machacar para disolver, luego añade el jugo de limón y mezcla suavemente.\nPor último añade el hielo hasta el tope e incorpora el gin y el agua mineral. Decora con algunas moras y hojas pequeñas de albahaca por encima para aportar aroma y color."
+    },
+    {
+        "drinkName":"Leche de pantera",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.QEexe.jnGIi2izn2N3yA?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nLicor de whisky o Bailey's 30ml\nLicor de crema de cacao 30ml\nLeche condensada 30ml\nRama de canela o canela en polvo",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielo incorpora los ingredientes y agita unos segundos hasta integrar. Sirve en un vaso pequeño y añade canela en polvo por encima, también puedes decorar con una ramita de canela."
+    },
+    {
+        "drinkName":"Black Russian",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.NMyoXRqTDkkWZijCcekj?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nVodka 50ml\nLicor de café 20ml\nRocas de hielo\nCereza maraschino",
+        "howToMake":"PREPARACIÓN\nEn un vaso corto previamente enfriado añade dos rocas de hielo e incorpora el vodka y el licor de café. Integra suavemente con una cucharilla. Puedes decorar con una cereza maraschino."
+    },
+    {
+        "drinkName":"French Martini",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.2SXwm5rVSeopVXRJv33B?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nVodka 40ml\nChambord 20ml\nJugo de piña 40ml\nFrambuesa",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos incorpora los ingredientes y agita unos segundos. Luego en una copa martini previamente enfriada añade el coctel con ayuda de un colador. Decora añadiendo una frambuesa."
+    },
+    {
+        "drinkName":"Sidecar",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.BD6YyO8Sxkx_YwwIvYnu?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nBrandy 60ml\nLicor Triple sec o Cointreau 30ml\nJugo de limón 30ml\nRodaja o twist de naranja",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade los ingredientes y agita unos segundos. Luego incorpora el coctel a una copa martini previamente enfriada. Decora con una rodaja o twist de naranja para aportar el toque cítrico."
+    },
+    {
+        "drinkName":"Singapore Sling",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.f5FCZzgYu1sreGP16UGw?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nGin 60ml\nLicor de cereza o kirsch 30ml\nJugo de limón 30ml\nGranadina 1 dash\nAgua mineral\nHielo en cubos\nCereza maraschino\nRodaja de piña o twist de piel de limón",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade el jugo de limón, el licor de cereza, el gin y la granadina. Agita unos segundos hasta integrar y con ayuda de un colador sirve el coctel en un vaso mediano o largo con hielos. Por último completa el vaso con agua mineral y decora con una cereza maraschino, piel de limón o una rodaja de piña."
+    },
+    {
+        "drinkName":"Daikiri de Banana",
+        "drinkImage":"https://th.bing.com/th/id/OIG4..MohWJiYV3urzjWaTAJN?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES PARA 2 UNIDADES\nRon blanco 80ml\nBanana 3/4\nJugo de limón 30ml\nAlmíbar simple 40ml\nHielo picado",
+        "howToMake":"PREPARACIÓN\nEn una licuadora añade los ingredientes y licúa hasta obtener una consistencia cremosa y uniforme. Sirvelo en una copa Huracán un en un vaso mediano. Puedes decorar con una rodaja de banana."
+    },
+    {
+        "drinkName":"Gin Fizz",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.UXhwfh7nO4jVZmZEfCYw?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nGin 60ml\nJugo de limón 30ml\nAlmíbar simple 20ml\nClara de huevo 1\nSoda\nTwist de piel de limón",
+        "howToMake":"PREPARACIÓN\nEn una coctelera añade el gin, el jugo de limón, el almíbar y la clara de huevo *Importante: la coctelera no debe tener hielos*. Agita unos 15 segundos vigorozamente, luego añade los hielos a la coctelera y vuelve a batir unos 15 segundos. Sirve el coctel en un vaso largo con ayuda de un colador y decora con una rodaja o twist de limón."
+    },
+    {
+        "drinkName":"Daikiri de Durazno",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.lzJ4WiUre.MCSxtOwaCi?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES PARA 2 UNIDADES\nRon blanco 80ml\nJugo de limón 30ml\nAlmíbar simple 40ml\nDurazno 1\nHielo picado",
+        "howToMake":"PREPARACIÓN\nAñade los ingredientes a la licuadora y licúa hasta conseguir una consistencia cremosa y uniforma. Sirve en copa huracán o en vasos medianos y decora con un slice de durazno."
+    },
+    {
+        "drinkName":"Bramble",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.ginWMARqwXIdrHrfQTQk?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nGin 40ml\nJugo de lima o limón\nAlmíbar simple 10ml\nLicor de mora 20ml\nHielo picado",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielo añadimos todos los ingredientes menos el licor de mora y agitamos unos segundos. Luego servimos con ayuda de un colador en un vaso corto y añadimos hielo picado hasta el tope. Por último incorporamos el licor de mora directo al vaso y decoramos con una mora."
+    },
+    {
+        "drinkName":"Blue Angel",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.9.D1Ub05y6_oxq83SlpQ?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nGin 60ml\nCointreau 20ml\nBlue Curaçao 5ml\nPiel o rodaja de limón",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade los ingredientes y agita unos segundos. Luego, en una copa martini previamente enfriada añade el coctel con ayuda de un colador. Por último decora con un twist de piel de limón o una rodaja de limón"
+    },
+    {
+        "drinkName":"Utrópia",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.yDxqhIfeA7OPBlLDQhms?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nGin 30ml\nVermouth rojo 20ml\nGinger Ale 15ml\nJugo de limón 20ml\nAlmíbar simple 20ml\nHielo en cubos\nRodaja de cítrico",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade los ingredientes y agita unos segundos. Luego añade hielos casi hasta el tope de un vaso largo y sirve el coctel con ayuda de un colador. Decoralo con una rodaja de limón, naranja o pomelo"
+    },
+    {
+        "drinkName":"Purple Sky",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.NbbFIDjwjJrtJC6V9Iaz?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nRon blanco 20ml\nRon de coco 15ml\nBlue Curaçao 30ml\nGranadina 10ml\nJugo de naranja 20ml\nJugo de piña 15ml\nRodaja de naranja o lima",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade los ingredientes y agita unos segundos hasta integrar bien. Luego añade hielos hasta el tope de un vaso largo y sirve el coctel con ayuda de un colador. Decora con una rodaja de naranja o lima y a disfrutar!"
+    },
+    {
+        "drinkName":"French 75",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.I9A0LIxg7VmQHvfWNOYx?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nGin 30ml\nJugo de limón 15ml\nAlmíbar simple 15ml\nEspumante\nRodaja o twist de limón",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade el gin, el jugo de limón y el almíbar. Agita unos segundos y sirvelo en una copa flauta, luego completa la copa con espumante y decora con un twist de piel de limón."
+    },
+    {
+        "drinkName":"Bronx",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.mWIGekCIKavWiMQKnVVx?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nDry Vermouth 15ml\nJugo de naranja 30ml\nGin 40ml\nVermouth rojo 15ml\nRodaja o twist de naranja",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielo añade los ingredientes y agita unos segundos. Sirve el coctel en una copa martini previamente enfriada y decora con una rodaja o twist de naranja."
+    },
+    {
+        "drinkName":"Marítimo",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.lciNzdeKK0uRxumPwkoY?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nAperol 40ml\nVodka de mango 30ml\nJugo de arándanos 40ml\nSirope de maracuyá o almíbar 10ml\nHielo en cubos\nMenta o hierbabuena",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade los ingredientes y agita unos segundos. Sirve el coctel en un vaso largo con hielos hasta el tope y decora con unas hojitas de menta o hierbabuena."
+    },
+    {
+        "drinkName":"Mojito Malibú",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.zyuS5MJhi_MnpvnzLt_l?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nLicor Malibú 50ml\nJugo de lima o limón 20ml\nSoda\nHielo en cubos\nHojas de menta",
+        "howToMake":"PREPARACIÓN\nEn un vaso mediano añade hojas de menta en el fondo, luego el Malibú y el jugo de limón. Cubre con hielos hasta el tope y completa con soda, luego suavemente con una cucharilla integra un poco de abajo hacia arriba.Decora con unas hojitas de menta y a disfrutar!"
+    },
+    {
+        "drinkName":"Donibane",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.7wbi5FcfBp3s2HKTofXZ?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nWhisky 30ml\nLicor de Mozart o Licor de chocolate 20ml\nSirope de vainilla 10ml\nSirope de chocolate 10ml\nCrema de leche 20ml\nFrutilla",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade los ingredientes y agita enérgicamente unos segundos. Pasa el coctel con ayuda de un colador a una copa martini previamente enfriada. Decora con un trozo de frutilla."
+    },
+    {
+        "drinkName":"Americano",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.RAjojqGfmwd.Zdbs9OyJ?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nCampari 45ml\nVermouth rosso 45ml\nSoda\nRocas de hielo\nRodaja de naranja",
+        "howToMake":"PREPARACIÓN\nEn un vaso corto añade dos rocas de hielo, luego incorpora el Vermouth, el Campari y completa el vaso con soda. Decora con una rodaja o twist de naranja"
+    },
+    {
+        "drinkName":"Serengueti",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.q1nQX_O7ZRUQ7GBX7ToW?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nGin 40ml\nCointreau 20ml\nLicor de frutos el bosque 10ml\nLima Rose's 40ml\nJugo de lima\nRodaja de lima",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade los ingredientes y agita unos segundos. Sirve el coctel en un vaso corto con hielos y decora con media rodaja de lima."
+    },
+    {
+        "drinkName":"Brandy Alexander",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.BCJ_fIrxuzWFTij1Csam?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nBrandy o Cognac 45ml\nLicor de cacao 25ml\nCrema 25ml\nNuez moscada",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade los ingredientes y agita enérgicamente unos 30 segundos. Sirve el coctel en una copa martini previamente enfriada y por último decora añadiendo nuez moscada o chocolate rayado por encima."
+    },
+    {
+        "drinkName":"Green & Fresh",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.ZqVB3oZbmCyaa0rSimWk?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nTé verde\nAzúcar moreno 1 cucharada por vaso\nHojas de hierbabuena",
+        "howToMake":"PREPARACIÓN\nEn agua hirviendo añade el té verde y el azúcar moreno para que se disuelva, apaga el fuego, añade un puñado de hierbabuena y deja reposar unos 4 minutos. Una vez frío pasa el té resultante a un vaso mediano con una base de hierbabuena y mucho hielo. Decora con hojitas de hierbabuena."
+    },
+    {
+        "drinkName":"Shirley Temple",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.K6vMZUBFElBzmXIqweei?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nGaseosa de lima-limón\nGranadina 15ml\nCerezas maraschino\nHielo en cubos",
+        "howToMake":"PREPARACIÓN\nEn un vaso largo o mediano añade hielos hasta el tope y sirve la gaseosa, luego incorpora la granadina para que se integre y decora con cerezas maraschino o arándanos rojos."
+    },
+    {
+        "drinkName":"San Francisco",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.ONguC0bTywqldc6hcE6G?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nJugo de naranja 40ml\nJugo de limón 30ml\nJugo de piña 40ml\nGranadina 25ml\nHielo picado\nCereza o piel de naranja",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añade los jugos y la granadina. Agita unos segundos.\nSirve en un vaso con hielo picado hasta el tope y decora con un twist de naranja o un palillo con cerezas"
+    },
+    {
+        "drinkName":"Lime Splash",
+        "drinkImage":"https://th.bing.com/th/id/OIG1.KDHISxR1oru82bVLU7xa?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nJugo de lima 40ml\nHojas de menta o hierbabuena\nSoda\nAlmíbar simple 20ml\nHielo picado\nRodajas de lima",
+        "howToMake":"PREPARACIÓN\nEn la base de un vaso corto añade unas hojas de menta o hierbabuena, luego el jugo de lima y el almíbar. Incorpora hielo picado hasta el tope del vaso y completa con soda. Decora añadiendo una o dos rodajas de lima dentro del vaso."
+    },
+    {
+        "drinkName":"Mango Breeze",
+        "drinkImage":"https://th.bing.com/th/id/OIG3.o5Uuu0Wcnvv7._pu30Uh?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES\nMango maduro 1\nAgua de coco\nJugo de lima o limón 20ml\nAlmíbar simple 20ml\nHojas de menta\nHielo picado",
+        "howToMake":"PREPARACIÓN\nEn un vaso mediano añade trocitos de mango, el jugo de limón y el almíbar. Macera con un mortero hasta que tenga una textura de puré, añade unas hojas de menta y llena el vaso con hielo picado. Completa con agua de coco e integra todo de abajo hacia arriba con una cucharilla. Por último decora con unos trocitos de mango y hojas de menta."
+    },
+    {
+        "drinkName":"Little Pink Pearl",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.gC4Pz.CnpQ.OX0VzlJ_m?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nJugo de pomelo rosado 60ml\nJugo de lima o limón 30ml\nSirope de horchata o almendra 15ml\nRodaja de lima o pomelo",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos añadimos los ingredientes y agitamos unos segundos. Servimos en un vaso mediano o copa con hielos y decoramos con una rodaja de lima o pomelo"
+    },
+    {
+        "drinkName":"Iced Ginger",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.lC92wZwQ0xTrWzJgupEq?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES PARA 4-5 UNIDADES\nJengibre fresco rayado 2 cucharadas\nJugo de lima o limón 120ml\nAlmíbar simple 90ml\nHielo picado\nRodaja de lima o limón\nHojas de menta",
+        "howToMake":"PREPARACIÓN\nAñade 4 tazas de agua a un recipiente y llévalo al fuego. Cuando rompa hervor apaga el fuego y añade el jengibre y deja infusionar uno 5-10 minutos. Cuela la infusión resultante y añade el almíbar, el jugo de lima o limón y revuelve para que todo se integre. Deja enfriar la limonada en la heladera y sirvela en vasos medianos con hielo picado. Decoralos con una rodaja de limón y hojitas de menta."
+    },
+    {
+        "drinkName":"Smoothie de Frutilla",
+        "drinkImage":"https://th.bing.com/th/id/OIG2.gZV4r20gyEKWSrPJhf8x?pid=ImgGn",
+        "drinkIngredients":"INGREDIENTES PARA 2 UNIDADES\nFrutillas sin tallo 1 taza\nYogurt natural 60ml\nMiel 3 cucharadas\nAgua o leche 1/2 taza",
+        "howToMake":"PREPARACIÓN\nEn una licuadora con hielos añade los ingredientes y licúa hasta obtener la textura deseada. Sirve el smoothie en vasos medianos y decora con una frutilla, añade un sorbete y a disfrutar!"
+    },
+    {
+        "drinkName":"Blue Lagoon",
+        "drinkImage":"https://th.bing.com/th/id/OIG4.FTOh9L4EFCZWGI6nXeiY?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "drinkIngredients":"INGREDIENTES\nVodka 50ml\nBlue Curaçao 20ml\nJugo de limón 15ml\nAgua mineral\nHielo en cubos\nRodaja de limón",
+        "howToMake":"PREPARACIÓN\nEn una coctelera con hielos incorpora el vodka, el Blue Curaçao, el jugo de limón y agita unos segundos. Luego en un vaso corto añade hielos hasta el tope y sirve el coctel con ayuda de un colador. Completa el vaso con agua mineral y decora con una rodaja de limón"
+    }
+]}

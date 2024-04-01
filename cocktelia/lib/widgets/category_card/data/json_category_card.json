@@ -1,0 +1,23 @@
+{
+"categories": [
+    {
+        "id": 1,
+        "categoryImage":"https://th.bing.com/th/id/OIG2.d0I6t5_2LPUEJFdSYCiU?pid=ImgGn",
+        "categoryName":"Clásicos"
+    },
+    {
+        "id": 2,
+        "categoryImage":"https://th.bing.com/th/id/OIG1.j4pNViTYh7oHLmBeA2VJ?pid=ImgGn",
+        "categoryName":"Populares"
+    },
+    {
+        "id": 3,
+        "categoryImage":"https://th.bing.com/th/id/OIG3.eTbkr1jexoByLXRwGFFJ?pid=ImgGn",
+        "categoryName":"Creativos"
+    },
+    {
+        "id": 4,
+        "categoryImage":"https://th.bing.com/th/id/OIG3.wUJwCJOzHAzKJLQaIp.g?pid=ImgGn",
+        "categoryName":"Sin alcohol"
+    }
+]}
