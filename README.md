@@ -78,7 +78,7 @@ RECURSOS
 
 Herramienta de desarrollo:
 
- Copilot: Se utilizó esta IA para generar las imágenes de la app, con la intención de crear una estética
+Generador de imágenes de Bing-Copilot: Se utilizó esta IA para generar las imágenes de la app, con la intención de crear una estética
 en común y que dichas imágenes sean únicas y originales.
 
 BASES DE DATOS
