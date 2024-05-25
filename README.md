@@ -8,7 +8,7 @@ mano. La simplicidad, el atractivo visual y la practicidad describen con precisi
  Inspirada en mi pasión por la gastronomía y la experiencia en elaboración de
 coctelería en el ámbito laboral, esta aplicación nace como una expresión personal de
 dicha experiencia, pudiendo integrar a la vez la tecnología como medio de expresión
-creativa y funcional. Ambas facetas se integran y dan nacimiento a Cocktelia.
+creativa y funcional. Ambas facetas convergen y dan nacimiento a Cocktelia.
 
 DESCRIPCIÓN GENERAL
 
