@@ -5,7 +5,7 @@ INTRODUCCION
  CocktElia es, como su nombre insinúa, una enciclopedia de cocteles al alcance de tu
 mano. La simplicidad, el atractivo visual y la practicidad describen con precisión la esencia de este proyecto.
 
- Inspirada por nuestra pasión por la gastronomía y la experiencia en la elaboración de
+ Inspirada en mi pasión por la gastronomía y la experiencia en la elaboración de
 coctelería en el ámbito laboral, esta aplicación nace como una expresión personal de
 dicha experiencia, pudiendo integrar a la vez la tecnología como medio de expresión
 creativa y funcional. Ambas facetas se integran y dan nacimiento a Cocktelia.
