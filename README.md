@@ -1,6 +1,4 @@
-COCKTELIA
-
-INTRODUCCION
+# COCKTELIA
 
  CocktElia es, como su nombre insinúa, una enciclopedia de cocteles al alcance de tu
 mano. La simplicidad, el atractivo visual y la practicidad describen con precisión la esencia de este proyecto.
@@ -10,7 +8,7 @@ coctelería en el ámbito laboral, esta aplicación nace como una expresión per
 dicha experiencia, pudiendo integrar a la vez la tecnología como medio de expresión
 creativa y funcional. Ambas facetas convergen y dan nacimiento a Cocktelia.
 
-DESCRIPCIÓN GENERAL
+## Descripción General
 
  Este proyecto tiene como finalidad proporcionar un acceso fácil y rápido a una gran
 gama de recetas de cocteles, incluyendo los grandes clásicos, cocteles populares y de
@@ -21,7 +19,7 @@ lado ofrece una categoría especial de "favoritos", para que puedas tener tu pro
 personalizada con los cocteles que más te gustan!
 
 
-FUNCIONALIDADES
+# Funcionalidades
 
 Al ejecutar la aplicación se visualiza la pantalla "splash", a modo de presentación, con una imagen ilustrativa y el nombre de la aplicación en la parte superior:
  
@@ -65,25 +63,24 @@ opción de eliminar la receta almacenada:
 
 ![](https://github.com/SophieRF/MyFlutterProjects/blob/main/favRecipesIMG.jpeg)
 
-HERRAMIENTAS
+## Herramientas
 * SDK Flutter
 * Andriod Studio
 * Visual Studio Code
 * Emulador de Android
 
-RECURSOS
+## Recursos
 * App responsiva: Screen Util 5.9.0
 * Manejador de estado: Provider 6.1.1
 * fuentes externas: Michroma-Regular, SairaExtraCondensed-Regular
 
-Herramienta de desarrollo:
+## Herramienta de desarrollo:
 
 Generador de imágenes de Bing-Copilot: Se utilizó esta IA para generar las imágenes de la app, con la intención de crear una estética
 en común y que dichas imágenes sean únicas y originales.
 
-BASES DE DATOS
+## Base de datos
 
 ![](https://github.com/SophieRF/MyFlutterProjects/blob/main/dataBase.jpeg)
 
- Se utilizaron archivos Json locales para almacenar los datos necesarios, ya que
-estos datos tienen un caracter personalizado que da su propia impronta a la aplicación.
+ Se utilizaron archivos Json locales para almacenar los datos necesarios.
